@@ -13,7 +13,7 @@ Perf Board | 1 | 20 x 15 (pins)
 Pin Header | 2(rows) | 40pins in a row
 Potentiometer | 6 | 10kOhms
 Jumper Wire(M-M)\* | 9 | 
-Servo Extension Cable\* | 6 | 
+Servo Extension Cable\*\* | 6 | 
 BEC | 1 | 5V~6V, 5A
 Lipo Battery | 1 | any size OK
 
