@@ -2,7 +2,7 @@ A 6 DOF servo robotic arm shield for Arduino Uno
 
 6자유도 로봇팔 전용 아두이노 우노 쉴드
 
-한국어 설명은 ![여기]()에 있습니다.
+한국어 설명은 ![여기](https://github.com/KongdoleProduction/RoboticArmController/blob/master/README_KR.md)에 있습니다.
 
 ## Materials List
 
