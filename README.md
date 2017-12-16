@@ -20,3 +20,15 @@ Lipo Battery | 1 | any size OK
 \* used for potentiometer cable
 
 \*\* can be replaced with male to female jumpers.
+
+## How To Use
+
+Schematics are located in /schematics/ directory.
+- `shield.png` is image file
+- `shield.sch` is eagle cad file.
+
+Arduino source code is located in /arduino_code/ directory
+
+## License
+
+MIT License

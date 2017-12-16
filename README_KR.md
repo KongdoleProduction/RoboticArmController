@@ -18,3 +18,15 @@ BEC | 1 | 5V~6V, 5A
 \* 가변저항 케이블 만드는데 사용됨 
 
 \*\* 암-수 점퍼로 대체 가능
+
+## 사용법
+
+회로도는 /schematics/ 폴더 안에 있습니다.
+- `shield.png` 는 이미지 파일입니다.
+- `shield.sch` 는 eagle cad 파일입니다.
+
+아두이노 소스 코드는 /arduino_code/ 폴더 안에 있습니다.
+
+## 라이센스
+
+MIT License
