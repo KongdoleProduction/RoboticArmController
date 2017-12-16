@@ -1,8 +1,9 @@
 A 6 DOF servo robotic arm shield for Arduino Uno
 
-6자유도 로봇팔 전용 아두이노 우노 쉴드
-
 한국어 설명은 ![여기](https://github.com/KongdoleProduction/RoboticArmController/blob/master/README_KR.md)에 있습니다.
+
+If you have any question, please post a new issue so everyone could see it! :blush:
+
 
 ## Materials List
 
@@ -28,6 +29,12 @@ Schematics are located in /schematics/ directory.
 - `shield.sch` is eagle cad file.
 
 Arduino source code is located in /arduino_code/ directory
+- Download it, open with Arduino IDE and upload to your Arduino board.
+- It is designed to run on Uno, but will work just fine on almost other Arduino boards.
+
+## Contribution
+
+If you want to improve this project, feel free to fork and when done please send us a PR(Pull Request).
 
 ## License
 
