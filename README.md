@@ -1,6 +1,9 @@
 A 6 DOF servo robotic arm shield for Arduino Uno
 
-한국어 설명은 ![여기](https://github.com/KongdoleProduction/RoboticArmController/blob/master/README_KR.md)에 있습니다.
+[![video1](http://img.youtube.com/vi/p9eNNrOL8lY/maxresdefault.jpg)](https://www.youtube.com/watch?v=p9eNNrOL8lY)
+[![video2](http://img.youtube.com/vi/tL0PPjmtvOE/maxresdefault.jpg)](https://www.youtube.com/watch?v=tL0PPjmtvOE)
+
+한국어 설명은 [여기](https://github.com/KongdoleProduction/RoboticArmController/blob/master/README_KR.md)에 있습니다.
 
 If you have any question, please post a new issue so everyone could see it! :blush:
 
