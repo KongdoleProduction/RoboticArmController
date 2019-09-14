@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "1.8.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "websocket": "^1.0.25",
+    "ws": "^4.0.0"
+  }
+}

@@ -1,0 +1,37 @@
+h1,h2,h3,h4,h5,h6,p,span {
+  color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+p,span {
+  font-size: 1.1em;
+}
+
+.text.center {
+  text-align: center;
+}
+
+.text.label {
+  color: #00b909;
+}
+
+.container.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.grid {
+  border-bottom: 2px solid #21e0d2;
+  padding: 10px;
+}
+
+#heading {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
